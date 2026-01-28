@@ -114,8 +114,6 @@ Click the **"🎛 Demo Mode"** button (bottom-right) to:
 
 ## Documentation
 
-- [`PRESENTATION_NOTES.md`](./PRESENTATION_NOTES.md) — Interview talking points
-- [`DESIGN_SPECS.md`](./DESIGN_SPECS.md) — Design system & component specs
 - [`design-tokens.json`](./design-tokens.json) — Colors, typography, spacing tokens
 
 ## Scripts
